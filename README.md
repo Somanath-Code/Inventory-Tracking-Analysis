@@ -28,7 +28,7 @@ Python · Pandas · Matplotlib · Seaborn
 
 ## Note
 This project uses a sample/practice dataset (not real company data). AI tools
-were used for debugging and visualization guidance — see the Development Notes
+were used for debugging and preparing presentation guidance — see the Development Notes
 section in the notebook for details.
 
 ---
